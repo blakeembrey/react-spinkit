@@ -1,6 +1,8 @@
 react-spinkit
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/react-spinkit.svg)](https://greenkeeper.io/)
+
 A collection of loading indicators animated with CSS for React
 
 Currently I've ported all the spinner animations from
